@@ -1,0 +1,1 @@
+This project aims to develop an artificial chatbot system capable of answering questions related to PDF files. The system will be provided with one or several PDF files as references, and it must be able to respond to queries about these files efficiently.
